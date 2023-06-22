@@ -54,7 +54,11 @@ End
 # Example of output
 ![image](https://github.com/benthen/dynamic-programming/assets/111986781/0236e93f-3023-4624-b413-485585902522)
 
-# Analysis of Dynamic Programming ALgorithm
+# Analysis of Dynamic Programming Algorithm
+* This algorithm is used to find the least distance between two points
+* After a starting point is chosen, a next point is chosen when the distance between starting point and next point is the least
+* The total distance with minimum cost is calculated
+
 * The time complexity of the algorithm is O(n^2 x 2^n), where n is number of cities
 
 * Best case
