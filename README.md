@@ -54,6 +54,10 @@ End
 # Example of output
 ![image](https://github.com/benthen/dynamic-programming/assets/111986781/0236e93f-3023-4624-b413-485585902522)
 
+# Demo video
+https://github.com/benthen/dynamic-programming/assets/111986781/7fac1ba5-1731-4433-99c2-8e3a93d423a5
+
+
 # Analysis of Dynamic Programming Algorithm
 * This algorithm is used to find the least distance between two points
 * After a starting point is chosen, a next point is chosen when the distance between starting point and next point is the least
