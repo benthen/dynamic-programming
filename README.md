@@ -55,12 +55,13 @@ End
 ![image](https://github.com/benthen/dynamic-programming/assets/111986781/0236e93f-3023-4624-b413-485585902522)
 
 # Analysis of Dynamic Programming ALgorithm
-* The time complexity of the algorithm is O(n2 2n), where n is number of cities
+* The time complexity of the algorithm is O(n^2 x 2^n), where n is number of cities
 
 * Best case
     * Occurs when the number of cities, n is very small, such as n=1 or n=2
     * The main function will have a constant time complexity of O(1) 
     * TSP function will also have a time complexity of O(1)
+ 
 * Average case and Worst case
-    * Occurs when number of cities is moderate or large, time complexity is O(n2 2n)
+    * Occurs when number of cities is moderate or large, time complexity is O(n^2 x 2^n)
     * The actual running time will depend on input distances between cities and will increase exponentially as the number of cities increases. 
